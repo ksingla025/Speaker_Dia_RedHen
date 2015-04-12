@@ -19,5 +19,5 @@ ALso set configurations of beamformit in "do_beamforming.sh" in beamformit direc
 
 #Usage :
 
-python 01_pre-processing.py path-to-mp4-data output_name
+python 01_pre-processing.py |path-to-mp4-data| |output_name|
 

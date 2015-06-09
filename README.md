@@ -2,11 +2,11 @@
 
 Detailed Documentation : http://web.iiit.ac.in/~karan.singla/redhenproposal.pdf
 
-# Module 0
+# Module 1
 This will extract 16kz audio date from Mp4 files and divide them according to respective news network
-# Data-PreProcessing
+Data-PreProcessing
 
-#Requirements :
+Requirements :
      1. Python (ofcourse, wrapper is in python)
      2. FFMPEG (https://www.ffmpeg.org/download.html)
 

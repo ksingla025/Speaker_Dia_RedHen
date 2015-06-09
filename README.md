@@ -22,4 +22,4 @@ This does cross-show diarization using ILP-Clustering\CLR-Clustering across vari
 
 python _cross_show_diarization.py |path-to-seg-folder|
 
-Note : "Scripts" folder contains supporting/utility scripts for the pipeline
+Note : "Scripts" folder contains supporting/utility scripts for the pipeline.

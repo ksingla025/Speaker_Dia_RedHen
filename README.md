@@ -12,7 +12,7 @@ Requirements :
 
 python 01_pre-processing.py |path-to-mp4-data| |output_name|
 
-#Module 1
+#Module 2
 This module takes input the data folder created in previous step and do produces diarization output for each audio with data organized similarly to audio folder with name <inp>_seg
 
 python 02_single_show_diarization.py |path-to-audio-data|

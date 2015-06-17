@@ -2,6 +2,10 @@
 
 Detailed Documentation : http://web.iiit.ac.in/~karan.singla/redhenproposal.pdf
 
+Now user can also use ALIZE speaker identification system instead of LIUM 
+just use ALIZE_spk_seg/spk_det.sh
+
+
 # Module 1
 This will extract 16kz audio date from Mp4 files and divide them according to respective news network
 Data-PreProcessing

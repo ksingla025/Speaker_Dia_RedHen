@@ -20,4 +20,5 @@ Make sure that you set the right path of "HCopy"
 You can play with the diarization parameters by editing this file
 
 5. qsub 04_Cluster.pbs -- make a sequential job to diarize each file
+
 NOTE : Change : replace "test_cfg" according to the name you keep instead of "test" 

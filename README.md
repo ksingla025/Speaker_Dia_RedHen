@@ -2,11 +2,15 @@
 
 Detailed Documentation : http://web.iiit.ac.in/~karan.singla/redhenproposal.pdf
 
+#Using ALIZE
 Now user can also use ALIZE speaker identification system instead of LIUM 
 just use ALIZE_spk_seg/spk_det.sh
 
+#Using PyCASP
 User can also use PyCASP based diarization system :
 Check "pycasp" folder for instructions.
+
+#Using LIUM
 
 Below Modules are primarily for running LIUM diarization system :
 

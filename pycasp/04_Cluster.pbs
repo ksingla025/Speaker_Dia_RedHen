@@ -16,7 +16,7 @@ module load cuda
 
 cd $PBS_O_WORKDIR
 
-for i in `ls -d -1 $PWD/kk_cfg/*` ; do
+for i in `ls -d -1 $PWD/test_cfg/*` ; do
         cp -r cluster.py $i $PFSDIR
 	cd $PFSDIR
 	python cluster.py -c $i

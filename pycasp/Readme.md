@@ -3,8 +3,10 @@
 Dependencies:
 1. PyCASP with CUDA 
 http://multimedia.icsi.berkeley.edu/scalable-big-data-analysis/pycasp/
+
 2. HTK toolkit 
 http://htk.eng.cam.ac.uk/
+
 3. FFMPEG
 
 Run :

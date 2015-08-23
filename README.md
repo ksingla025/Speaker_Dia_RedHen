@@ -5,6 +5,10 @@ Detailed Documentation : http://web.iiit.ac.in/~karan.singla/redhenproposal.pdf
 Now user can also use ALIZE speaker identification system instead of LIUM 
 just use ALIZE_spk_seg/spk_det.sh
 
+User can also use PyCASP based diarization system :
+Check "pycasp" folder for instructions.
+
+Below Modules are primarily for running LIUM diarization system :
 
 # Module 1
 This will extract 16kz audio date from Mp4 files and divide them according to respective news network
@@ -22,9 +26,7 @@ This module takes input the data folder created in previous step and do produces
 python 02_single_show_diarization.py |path-to-audio-data|
 
 #Module 3
-This does cross-show diarization using ILP-Clustering\CLR-Clustering across various files of the same show.
-
-python _cross_show_diarization.py |path-to-seg-folder|
+Cross-show diarization : Still under development
 
 Note :
 "Scripts" folder contains supporting/utility scripts for the pipeline.

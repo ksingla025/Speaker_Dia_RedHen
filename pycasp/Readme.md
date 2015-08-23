@@ -1,6 +1,7 @@
-# PyCASP for NewsScape Corpus
+#### PyCASP for NewsScape Corpus
 
-Dependencies:
+######Dependencies:
+
 1. PyCASP with CUDA 
 http://multimedia.icsi.berkeley.edu/scalable-big-data-analysis/pycasp/
 
@@ -9,7 +10,7 @@ http://htk.eng.cam.ac.uk/
 
 3. FFMPEG
 
-Run :
+######Run :
 
 1. Make a folder with all your ".mp4" files. Let's say it is "test"
 
